@@ -64,4 +64,5 @@ int main()
 	delete [] arrPlayer;
 
 	return 0;
+
 }
